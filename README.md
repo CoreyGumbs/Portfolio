@@ -69,7 +69,7 @@ All contributions, changes, fixes, debugs, etc. must be submitted via branches f
 
 ### Branch Formatting:
 -------
-+  Ensure you are on proper branch before adding or committing any changes:
+1.  Ensure you are on proper branch before adding or committing any changes:
     +  **To check current branch:** 
         +  _Git Status_
         +  _Look for “On [branchname]” message_
@@ -78,13 +78,13 @@ All contributions, changes, fixes, debugs, etc. must be submitted via branches f
     + **To change to needed branch:**
         + _Git checkout “[branchname]”_
     + **To create branch:**
-        + See section 2 of Branch Formatting 
+        + See following section  
 2.  Contributors must create local branches using the following format:
-a.  All branches should have the following naming convention:
-i.  File directory -contribution/fix title – version IE: CSS –layout-width-fix– V1 or CSS–All-Link-Hover-Effect- V1.2
-b.  Create branch:
-i.  Git Checkout –b Branch Name (please follow proper naming conventions as described on this document)
-ii. To push to branch see section 3 of Branch Formatting
+    +  All branches should have the following naming convention:
+        +  File directory -contribution/fix title – version IE: CSS –layout-width-fix– V1 or CSS–All-Link-Hover-Effect- V1.2
+    +  Create branch:
+        +  Git Checkout –b Branch Name (please follow proper naming conventions as described on this document)
+        + To push to branch see section 3 of Branch Formatting
 3.  Add and Commit all file changes/contributions to new branch:
 a.  To add all files:
 i.  Git add .
