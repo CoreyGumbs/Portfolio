@@ -45,9 +45,9 @@ If you are current and up-to-date feel free to scoll to your needed section of t
 
 **_If you are new to this project you must clone the Github repo into your local file directory:_**
 
-    >1. _cd into desired local directory (we recommend Documents or Desktop)_
-    >2. _clone git repo into desired local directory:_
-     >1. _Git clone git@github.com:SonofLight/Portfolio.git_
+1. _cd into desired local directory (we recommend Documents or Desktop)_
+2. _clone git repo into desired local directory:_
+    1. _Git clone git@github.com:SonofLight/Portfolio.git_
 
 **_If you are currently contributing to project you must ensure you are working with the most current version:_**
 
