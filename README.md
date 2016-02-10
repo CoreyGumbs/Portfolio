@@ -40,7 +40,7 @@ Ensure you are utilizing the current version of Corey Gumbs Portfolio. The curre
 
 If you are current and up-to-date feel free to scoll to your needed section of this plan otherwise start here:
 
-### Before You Proceed:
+#### Before You Proceed:
 ---
 
 **_If you are new to this project you must clone the Github repo into your local file directory:_**
@@ -67,12 +67,12 @@ If you are current and up-to-date feel free to scoll to your needed section of t
 4. If needed update to most current version:
     1. Git pull origin master
 
-### Contributions/Fixes:
+#### Contributions/Fixes:
 ---
 
 All contributions, changes, fixes, debugs, etc. must be submitted via branches for review before being merged to master branch. 
 
-### Branch Formatting:
+#### Branch Formatting:
 ---
 
 1.  Ensure you are on proper branch before adding or committing any changes:
@@ -101,17 +101,17 @@ All contributions, changes, fixes, debugs, etc. must be submitted via branches f
         1.  Git commit –m “give detailed description of changes/contribution/additions”   (IE: Git commit –m “fixed site layout width error when on tablet screen resolution”)
     
 4.  Push committed files to branch:
-a.  Git push origin  [branch]
-b.  Git status to ensure there are no conflicts
+    1.  Git push origin  [branch]
+    2.  Git status to ensure there are no conflicts
 5.  Create Pull Request
-a.  Create Pull Request on Git Hub Repo:
-i.  Click on “New Pull Request” button on Repo Code page
-ii. Find “Base” drop down and make sure it is on Master
-iii.    Find “Compare” drop down and set it to your specific branch
-iv. Enter in description of pull request 
-v.  Click on “Create pull request” button
+    1.  Create Pull Request on Git Hub Repo:
+        1. Click on “New Pull Request” button on Repo Code page
+        2. Find “Base” drop down and make sure it is on Master
+        3. Find “Compare” drop down and set it to your specific branch
+        4. Enter in description of pull request 
+        5. Click on “Create pull request” button
 
-### Code Review and Approval
+#### Code Review and Approval
 ---
 Code will be merged to master branch upon code review and approval by Lead Developer/Approved Contributors
 
