@@ -45,24 +45,24 @@ If you are current and up-to-date feel free to scoll to your needed section of t
 
 **_If you are new to this project you must clone the Github repo into your local file directory:_**
 
-1. cd into desired local directory (we recommend Documents or Desktop)
-2. clone git repo into desired local directory:
-    1. Git clone git@github.com:SonofLight/Portfolio.git
+1. **cd into desired local directory (we recommend Documents or Desktop)**
+2. **clone git repo into desired local directory:**
+    1. _Git clone git@github.com:SonofLight/Portfolio.git_
 
 **_If you are currently contributing to project you must ensure you are working with the most current version:_**
 
-1. Navigate to working local directory
+1. **Navigate to working local directory**
 
-2. Check status of branch files: 
-    1. Git status
-    2. Resolve all conflicts before pulling from master branch
-    3. Push all changes to branch (see “ directions for instructions) before pulling most current version
+2. **Check status of branch files:** 
+    1. _Git status_
+    2. _Resolve all conflicts before pulling from master branch_
+    3. _Push all changes to branch before pulling most current version_
     
-3. Ensure you are on the master branch
-    1. Check branches
-    2. Git branch
-    3. If not on master branch then change to master branch:
-    4. Git checkout master
+3. **Ensure you are on the master branch**
+    1. _Check branches_
+    2. _Git branch_
+    3. _If not on master branch then change to master branch:_
+        1. Git checkout master
 
 4. If needed update to most current version:
     1. Git pull origin master
@@ -79,13 +79,15 @@ All contributions, changes, fixes, debugs, etc. must be submitted via branches f
     1.  **To check current branch:** 
         1.  _Git Status_
         2.  _Look for “On [branchname]” message_
+        
     2. **To see current branches in repo:**
         1. _Git branch_
+    
     3. **To change to needed branch:**
         1. _Git checkout “[branchname]”_
         
     4. **To create branch:**
-        1. _See following section _
+        1. _See following section_
     
 2.  Contributors must create local branches using the following format:
     1.  **All branches should have the following naming convention:**
