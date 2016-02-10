@@ -65,5 +65,5 @@ If you are current and up-to-date feel free to scoll to your needed section of t
 
 ### Contributions/Fixes:
 ---------
-All contributions, changes, fixes, debugs, etc. must be submitted via branches for review before being merged to master branch. 
+>All contributions, changes, fixes, debugs, etc. must be submitted via branches for review before being merged to master branch. 
 
