@@ -7,7 +7,7 @@ This is the deployment plan for [CoreyGumbs.com](http://wwww.CoreyGumbs.com), a 
 
 ## Architecture:
 
- [CoreyGumbs.com](http://wwww.CoreyGumbs.com) is currently a static website built upon the Bootstrap 3 framework.  There is a possibility of more dynamic aspects being added in the future. Currently the architecture of the site compromise
+ [CoreyGumbs.com](http://wwww.CoreyGumbs.com) is currently a static website built upon the Bootstrap 3 framework.  There is a possibility of more dynamic aspects being added in the future. Currently the architecture of the site is as follows:
  
     source/
         - Index.html
