@@ -120,6 +120,7 @@ All contributions, changes, fixes, debugs, etc. must be submitted via branches f
         4. Enter in description of pull request 
         5. Click on “Create pull request” button
 
+
 #### Code Review and Approval
 ---
 Code will be merged to master branch upon code review and approval by Lead Developer/Approved Contributors
