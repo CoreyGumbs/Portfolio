@@ -37,7 +37,7 @@ Ensure you are utilizing the current version of Corey Gumbs Portfolio. The curre
 If you are current and up-to-date feel free to scoll to your needed section of this plan otherwise start here:
 
 ### Do First:
-
+======
 **_If you are new to this project you must clone the Github repo into your local file directory:_**
 
 + cd into desired local directory (we recommend Documents or Desktop)
