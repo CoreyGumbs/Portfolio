@@ -35,7 +35,7 @@ Strict adherence to current versions is strictly enforced. Before any work can b
 Ensure you are utilizing the current version of Corey Gumbs Portfolio. The current **version  1.0**. 
 
 If you are current and up-to-date feel free to scoll to your needed section of this plan otherwise start here:
-
+=======
 ### Do First:
 ======
 **_If you are new to this project you must clone the Github repo into your local file directory:_**
