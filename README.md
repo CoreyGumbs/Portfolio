@@ -70,9 +70,9 @@ All contributions, changes, fixes, debugs, etc. must be submitted via branches f
 ### Branch Formatting:
 -------
 1.  Ensure you are on proper branch before adding or committing any changes:
-    +  **To check current branch:** 
-        +  _Git Status_
-        +  _Look for “On [branchname]” message_
+    ..1.  **To check current branch:** 
+        ..1.  _Git Status_
+        ..2.  _Look for “On [branchname]” message_
     + **To see current branches in repo:**
         + _Git branch_
     + **To change to needed branch:**
