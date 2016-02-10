@@ -85,7 +85,7 @@ All contributions, changes, fixes, debugs, etc. must be submitted via branches f
         1. _Git checkout “[branchname]”_
         
     4. **To create branch:**
-        1. _See following section __ 
+        1. _See following section _
     
 2.  Contributors must create local branches using the following format:
     1.  **All branches should have the following naming convention:**
@@ -94,14 +94,14 @@ All contributions, changes, fixes, debugs, etc. must be submitted via branches f
             2. **EXAMPLE 2:** CSS–All-Link-Hover-Effect- V1.2
     
     2.  **Create branch:**
-        1.  Git Checkout –b Branch Name _(please follow proper naming conventions as described on this document)__
-        2. To push to branch see section 3 of Branch Formatting
+        1.  _Git Checkout –b Branch Name_
+        2. _To push to branch see section 3 of Branch Formatting_
         
 3.  Add and Commit all file changes/contributions to new branch:
-    1.  To add all files:
-        1.  Git add .
-    2.  To add a particular/individual file:
-        1.  Git add [file]
+    1.  **To add all files:**
+        1.  _Git add ._
+    2.  **To add a particular/individual file:**
+        1.  _Git add [file]_
     3.  Commit changes to branch:
         1.  Git commit –m “give detailed description of changes/contribution/additions”   (IE: Git commit –m “fixed site layout width error when on tablet screen resolution”)
     
