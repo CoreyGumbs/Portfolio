@@ -81,20 +81,20 @@ All contributions, changes, fixes, debugs, etc. must be submitted via branches f
         2.  _Look for “On [branchname]” message_
     2. **To see current branches in repo:**
         1. _Git branch_
-    3. To change to needed branch:
+    3. **To change to needed branch:**
         1. _Git checkout “[branchname]”_
         
-    4. To create branch:
-        1. See following section  
+    4. **To create branch:**
+        1. _See following section __ 
     
 2.  Contributors must create local branches using the following format:
-    1.  All branches should have the following naming convention:
-        1.  File directory -contribution/fix title – version 
-            1. IE: CSS –layout-width-fix– V1 or 
-            2. CSS–All-Link-Hover-Effect- V1.2
+    1.  **All branches should have the following naming convention:**
+        1.  _File directory -contribution/fix title – version_
+            1. **EXAPLE 1:**  CSS –layout-width-fix– V1 or 
+            2. **EXAMPLE 2:** CSS–All-Link-Hover-Effect- V1.2
     
-    2.  Create branch:
-        1.  Git Checkout –b Branch Name (please follow proper naming conventions as described on this document)
+    2.  **Create branch:**
+        1.  Git Checkout –b Branch Name _(please follow proper naming conventions as described on this document)__
         2. To push to branch see section 3 of Branch Formatting
         
 3.  Add and Commit all file changes/contributions to new branch:
