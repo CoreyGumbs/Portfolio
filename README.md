@@ -40,6 +40,7 @@ Ensure you are utilizing the current version of Corey Gumbs Portfolio. The curre
 
 If you are current and up-to-date feel free to scoll to your needed section of this plan otherwise start here:
 
+
 #### Before You Proceed:
 ---
 
@@ -68,26 +69,25 @@ If you are current and up-to-date feel free to scoll to your needed section of t
 4. If needed update to most current version:
     1. Git pull origin master
 
+
 #### Contributions/Fixes:
 ---
 
 All contributions, changes, fixes, debugs, etc. must be submitted via branches for review before being merged to master branch. 
 
+
 #### Branch Formatting:
 ---
 
 1.  Ensure you are on proper branch before adding or committing any changes:
-    1.  **To check current branch:** 
+    1.  To check current branch:
         1.  _Git Status_
         2.  _Look for “On [branchname]” message_
-        
-    2. **To see current branches in repo:**
+    2. To see current branches in repo:
         1. _Git branch_
-    
-    3. **To change to needed branch:**
-        1. _Git checkout “[branchname]”_
-        
-    4. **To create branch:**
+    3. To change to needed branch:
+        1. _Git checkout “[branchname]”_ 
+    4. To create branch:
         1. _See following section_
     
 2.  Contributors must create local branches using the following format:
