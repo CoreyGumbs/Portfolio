@@ -51,15 +51,18 @@ If you are current and up-to-date feel free to scoll to your needed section of t
 **_If you are currently contributing to project you must ensure you are working with the most current version:_**
 
 1. Navigate to working local directory
+
 2. Check status of branch files: 
     1. Git status
     2. Resolve all conflicts before pulling from master branch
     3. Push all changes to branch (see “ directions for instructions) before pulling most current version
+    
 3. Ensure you are on the master branch
     1. Check branches
     2. Git branch
     3. If not on master branch then change to master branch:
     4. Git checkout master
+
 4. If needed update to most current version:
     1. Git pull origin master
 
@@ -68,7 +71,7 @@ If you are current and up-to-date feel free to scoll to your needed section of t
 All contributions, changes, fixes, debugs, etc. must be submitted via branches for review before being merged to master branch. 
 
 ### Branch Formatting:
--------
+
 1.  Ensure you are on proper branch before adding or committing any changes:
     1.  **To check current branch:** 
         1.  _Git Status_
@@ -79,19 +82,21 @@ All contributions, changes, fixes, debugs, etc. must be submitted via branches f
         1. _Git checkout “[branchname]”_
     4. **To create branch:**
         1. See following section  
+    
 2.  Contributors must create local branches using the following format:
-    +  All branches should have the following naming convention:
-        +  File directory -contribution/fix title – version IE: CSS –layout-width-fix– V1 or CSS–All-Link-Hover-Effect- V1.2
-    +  Create branch:
-        +  Git Checkout –b Branch Name (please follow proper naming conventions as described on this document)
-        + To push to branch see section 3 of Branch Formatting
+    1.  All branches should have the following naming convention:
+        1.  File directory -contribution/fix title – version IE: CSS –layout-width-fix– V1 or CSS–All-Link-Hover-Effect- V1.2
+    2.  Create branch:
+        1.  Git Checkout –b Branch Name (please follow proper naming conventions as described on this document)
+        2. To push to branch see section 3 of Branch Formatting
 3.  Add and Commit all file changes/contributions to new branch:
-a.  To add all files:
-i.  Git add .
-b.  To add a particular/individual file:
-i.  Git add [file]
-c.  Commit changes to branch:
-i.  Git commit –m “give detailed description of changes/contribution/additions”   (IE: Git commit –m “fixed site layout width error when on tablet screen resolution”)
+    1.  To add all files:
+        1.  Git add .
+    2.  To add a particular/individual file:
+        1.  Git add [file]
+    3.  Commit changes to branch:
+        1.  Git commit –m “give detailed description of changes/contribution/additions”   (IE: Git commit –m “fixed site layout width error when on tablet screen resolution”)
+    
 4.  Push committed files to branch:
 a.  Git push origin  [branch]
 b.  Git status to ensure there are no conflicts
