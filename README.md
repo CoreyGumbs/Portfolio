@@ -81,17 +81,22 @@ All contributions, changes, fixes, debugs, etc. must be submitted via branches f
         2.  _Look for “On [branchname]” message_
     2. **To see current branches in repo:**
         1. _Git branch_
-    3. **To change to needed branch:**
+    3. To change to needed branch:
         1. _Git checkout “[branchname]”_
-    4. **To create branch:**
+        
+    4. To create branch:
         1. See following section  
     
 2.  Contributors must create local branches using the following format:
     1.  All branches should have the following naming convention:
-        1.  File directory -contribution/fix title – version IE: CSS –layout-width-fix– V1 or CSS–All-Link-Hover-Effect- V1.2
+        1.  File directory -contribution/fix title – version 
+            1. IE: CSS –layout-width-fix– V1 or 
+            2. CSS–All-Link-Hover-Effect- V1.2
+    
     2.  Create branch:
         1.  Git Checkout –b Branch Name (please follow proper naming conventions as described on this document)
         2. To push to branch see section 3 of Branch Formatting
+        
 3.  Add and Commit all file changes/contributions to new branch:
     1.  To add all files:
         1.  Git add .
@@ -103,6 +108,7 @@ All contributions, changes, fixes, debugs, etc. must be submitted via branches f
 4.  Push committed files to branch:
     1.  Git push origin  [branch]
     2.  Git status to ensure there are no conflicts
+    
 5.  Create Pull Request
     1.  Create Pull Request on Git Hub Repo:
         1. Click on “New Pull Request” button on Repo Code page
