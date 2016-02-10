@@ -41,6 +41,7 @@ Ensure you are utilizing the current version of Corey Gumbs Portfolio. The curre
 If you are current and up-to-date feel free to scoll to your needed section of this plan otherwise start here:
 
 ### Before You Proceed:
+====
 
 **_If you are new to this project you must clone the Github repo into your local file directory:_**
 
@@ -67,10 +68,12 @@ If you are current and up-to-date feel free to scoll to your needed section of t
     1. Git pull origin master
 
 ### Contributions/Fixes:
+====
 
 All contributions, changes, fixes, debugs, etc. must be submitted via branches for review before being merged to master branch. 
 
 ### Branch Formatting:
+====
 
 1.  Ensure you are on proper branch before adding or committing any changes:
     1.  **To check current branch:** 
@@ -109,6 +112,7 @@ iv. Enter in description of pull request
 v.  Click on “Create pull request” button
 
 ### Code Review and Approval
+====
 Code will be merged to master branch upon code review and approval by Lead Developer/Approved Contributors
 
 
