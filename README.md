@@ -65,5 +65,44 @@ If you are current and up-to-date feel free to scoll to your needed section of t
 
 ### Contributions/Fixes:
 ---------
->All contributions, changes, fixes, debugs, etc. must be submitted via branches for review before being merged to master branch. 
+All contributions, changes, fixes, debugs, etc. must be submitted via branches for review before being merged to master branch. 
+
+### Branch Formatting:
+-------
++  Ensure you are on proper branch before adding or committing any changes:
+    +  **To check current branch:** 
+        +  _Git Status_
+        +  _Look for “On [branchname]” message_
+    + **To see current branches in repo:**
+        + _Git branch_
+    + **To change to needed branch:**
+        + _Git checkout “[branchname]”_
+    + **To create branch:**
+        + See section 2 of Branch Formatting 
+2.  Contributors must create local branches using the following format:
+a.  All branches should have the following naming convention:
+i.  File directory -contribution/fix title – version IE: CSS –layout-width-fix– V1 or CSS–All-Link-Hover-Effect- V1.2
+b.  Create branch:
+i.  Git Checkout –b Branch Name (please follow proper naming conventions as described on this document)
+ii. To push to branch see section 3 of Branch Formatting
+3.  Add and Commit all file changes/contributions to new branch:
+a.  To add all files:
+i.  Git add .
+b.  To add a particular/individual file:
+i.  Git add [file]
+c.  Commit changes to branch:
+i.  Git commit –m “give detailed description of changes/contribution/additions”   (IE: Git commit –m “fixed site layout width error when on tablet screen resolution”)
+4.  Push committed files to branch:
+a.  Git push origin  [branch]
+b.  Git status to ensure there are no conflicts
+5.  Create Pull Request
+a.  Create Pull Request on Git Hub Repo:
+i.  Click on “New Pull Request” button on Repo Code page
+ii. Find “Base” drop down and make sure it is on Master
+iii.    Find “Compare” drop down and set it to your specific branch
+iv. Enter in description of pull request 
+v.  Click on “Create pull request” button
+6.  Code Review and Approval
+a.  Code will be merged to master branch upon code review and approval by Lead Developer/Approved Contributors
+
 
