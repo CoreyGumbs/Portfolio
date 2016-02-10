@@ -44,24 +44,24 @@ If you are current and up-to-date feel free to scoll to your needed section of t
 -------
 **_If you are new to this project you must clone the Github repo into your local file directory:_**
 
-+ cd into desired local directory (we recommend Documents or Desktop)
-+ clone git repo into desired local directory:
-    + Git clone git@github.com:SonofLight/Portfolio.git
+1. cd into desired local directory (we recommend Documents or Desktop)
+2. clone git repo into desired local directory:
+    1. Git clone git@github.com:SonofLight/Portfolio.git
 
 **_If you are currently contributing to project you must ensure you are working with the most current version:_**
 
-+ Navigate to working local directory
-+ Check status of branch files: 
-    + Git status
-    + Resolve all conflicts before pulling from master branch
-    + Push all changes to branch (see “ directions for instructions) before pulling most current version
-+ Ensure you are on the master branch
-    + Check branches
-    + Git branch
-    + If not on master branch then change to master branch:
-    + Git checkout master
-+ If needed update to most current version:
-    + Git pull origin master
+1. Navigate to working local directory
+2. Check status of branch files: 
+    1. Git status
+    2. Resolve all conflicts before pulling from master branch
+    3. Push all changes to branch (see “ directions for instructions) before pulling most current version
+3. Ensure you are on the master branch
+    1. Check branches
+    2. Git branch
+    3. If not on master branch then change to master branch:
+    4. Git checkout master
+4. If needed update to most current version:
+    1. Git pull origin master
 
 ### Contributions/Fixes:
 ---------
@@ -73,12 +73,12 @@ All contributions, changes, fixes, debugs, etc. must be submitted via branches f
     1.  **To check current branch:** 
         1.  _Git Status_
         2.  _Look for “On [branchname]” message_
-    + **To see current branches in repo:**
-        + _Git branch_
-    + **To change to needed branch:**
-        + _Git checkout “[branchname]”_
-    + **To create branch:**
-        + See following section  
+    2. **To see current branches in repo:**
+        1. _Git branch_
+    3. **To change to needed branch:**
+        1. _Git checkout “[branchname]”_
+    4. **To create branch:**
+        1. See following section  
 2.  Contributors must create local branches using the following format:
     +  All branches should have the following naming convention:
         +  File directory -contribution/fix title – version IE: CSS –layout-width-fix– V1 or CSS–All-Link-Hover-Effect- V1.2
