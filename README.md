@@ -100,12 +100,12 @@ All contributions, changes, fixes, debugs, etc. must be submitted via branches f
     1.  To add all files:
         1.  _Git add ._
     2.  To add a particular/individual file:
-        1.  _Git add [file]_
+        1.  _Git add [filename]_
     3.  Commit changes to branch:
         1.  Git commit –m “give detailed description of changes/contribution/additions”   (IE: Git commit –m “fixed site layout width error when on tablet screen resolution”)
     
 4.  Push committed files to branch:
-    1.  Git push origin  [branch]
+    1.  Git push origin [branch name]
     2.  Git status to ensure there are no conflicts
     
 5.  Create Pull Request
