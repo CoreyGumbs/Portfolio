@@ -107,7 +107,8 @@ ii. Find “Base” drop down and make sure it is on Master
 iii.    Find “Compare” drop down and set it to your specific branch
 iv. Enter in description of pull request 
 v.  Click on “Create pull request” button
-6.  Code Review and Approval
-a.  Code will be merged to master branch upon code review and approval by Lead Developer/Approved Contributors
+
+### Code Review and Approval
+Code will be merged to master branch upon code review and approval by Lead Developer/Approved Contributors
 
 
