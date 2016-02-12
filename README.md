@@ -4,7 +4,8 @@ This is the deployment plan for [CoreyGumbs.com](http://www.CoreyGumbs.com), a p
 
 ## Architecture:
 
- [CoreyGumbs.com](http://www.CoreyGumbs.com) is currently a static website built upon the Bootstrap 3 framework.  There is a possibility of more dynamic aspects being added in the future. Currently the architecture of the site compromise
+ [CoreyGumbs.com](http://www.CoreyGumbs.com) is setup on a Single-Tier server. 
+ It is currently a static website built upon the Bootstrap 3 framework. There is a possibility of more dynamic aspects being added in the future. Currently the architecture of the site compromise
  
     source/
         - Index.html
@@ -32,12 +33,14 @@ This is the official repo for CoreyGumbs.com. Any and all version changes, updat
 
 Strict adherence to current versions is strictly enforced. Before any work can be done on the portfolio, it is your responsibility to make sure you are working on the latest approved version of the application. 
 
-Ensure you are utilizing the current version of Corey Gumbs Portfolio. The current **version  1.0**. 
+Ensure you are utilizing the current version of Corey Gumbs Portfolio. The current **version 1.0**. 
+
+We use a strict 3 step development process. This process incorporates a development step for submissions to be reviewed, a staging step to test all new changes/submissions, and a production step which is the finalized code base for the site. 
 
 If you are current and up-to-date feel free to scoll to your needed section of this plan otherwise start here:
 
 
-#### Before You Proceed:
+#### Setting Up Local Repository:
 ---
 
 **_If you are new to this project you must clone the Github repo into your local file directory:_**
@@ -111,7 +114,7 @@ All contributions, changes, fixes, debugs, etc. must be submitted via branches f
 5.  Create Pull Request
     1.  Create Pull Request on Git Hub Repo:
         1. Click on “New Pull Request” button on Repo Code page
-        2. Find “Base” drop down and make sure it is on Master
+        2. Find “Base” drop down and make sure it is on Staging
         3. Find “Compare” drop down and set it to your specific branch
         4. Enter in description of pull request 
         5. Click on “Create pull request” button
@@ -120,6 +123,19 @@ All contributions, changes, fixes, debugs, etc. must be submitted via branches f
 #### Code Review and Approval
 ---
 Code will be merged to master branch upon code review and approval by Lead Developer/Approved Contributors
+
+####Staging Code For Testing
+---
+
+Once code has been accepted and merged to staging branch for development, the designated contributor will pull to the staging folder and push all merged code to staging server for testing by tester. 
+
+Testing Server: [192.241.184.154](http://192.241.184.154)
+
+####Production Server
+--- 
+Once all test and corrections pass on the Staging Server, it will be pushed to production server.
+
+Production Server:  [CoreyGumbs.com](http://www.CoreyGumbs.com) or [162.243.123.131](http://162.243.123.131)
 
 
 
