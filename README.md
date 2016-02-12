@@ -1,10 +1,10 @@
 ## Overview and Purpose:
 
-This is the deployment plan for [CoreyGumbs.com](http://wwww.CoreyGumbs.com), a personal portfolio website.  This portfolio is to showcase both current and past projects in which Corey Gumbs participated in or created for clients. As the portfolio expands, there will be a need to expand this portfolio website as well.
+This is the deployment plan for [CoreyGumbs.com](http://www.CoreyGumbs.com), a personal portfolio website.  This portfolio is to showcase both current and past projects in which Corey Gumbs participated in or created for clients. As the portfolio expands, there will be a need to expand this portfolio website as well.
 
 ## Architecture:
 
- [CoreyGumbs.com](http://wwww.CoreyGumbs.com) is currently a static website built upon the Bootstrap 3 framework.  There is a possibility of more dynamic aspects being added in the future. Currently the architecture of the site compromise
+ [CoreyGumbs.com](http://www.CoreyGumbs.com) is currently a static website built upon the Bootstrap 3 framework.  There is a possibility of more dynamic aspects being added in the future. Currently the architecture of the site compromise
  
     source/
         - Index.html
@@ -120,5 +120,7 @@ All contributions, changes, fixes, debugs, etc. must be submitted via branches f
 #### Code Review and Approval
 ---
 Code will be merged to master branch upon code review and approval by Lead Developer/Approved Contributors
+
+
 
 
