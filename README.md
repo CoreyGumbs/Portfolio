@@ -1,10 +1,10 @@
 ## Overview and Purpose:
 
-This is the deployment plan for [CoreyGumbs.com](http://www.CoreyGumbs.com), a personal portfolio website.  This portfolio is to showcase both current and past projects in which Corey Gumbs participated in or created for clients. As the portfolio expands, there will be a need to expand this portfolio website as well.
+This is the deployment plan for [CoreyGumbs.com](http://coreygumbs.com/), a personal portfolio website.  This portfolio is to showcase both current and past projects in which Corey Gumbs participated in or created for clients. As the portfolio expands, there will be a need to expand this portfolio website as well.
 
 ## Architecture:
 
- [CoreyGumbs.com](http://www.CoreyGumbs.com) is setup on a Single-Tier server. 
+[CoreyGumbs.com](http://coreygumbs.com/) is setup on a Single-Tier server. 
  It is currently a static website built upon the Bootstrap 3 framework. There is a possibility of more dynamic aspects being added in the future. Currently the architecture of the site compromise
  
     source/
@@ -135,7 +135,7 @@ Testing Server: [192.241.184.154](http://192.241.184.154)
 --- 
 Once all test and corrections pass on the Staging Server, it will be pushed to production server.
 
-Production Server:  [CoreyGumbs.com](http://www.coreygumbs.com) or [162.243.123.131](http://162.243.123.131)
+Production Server:  [CoreyGumbs.com](http://coreygumbs.com/) or [162.243.123.131](http://162.243.123.131)
 
 
 
