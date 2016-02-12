@@ -135,7 +135,7 @@ Testing Server: [192.241.184.154](http://192.241.184.154)
 --- 
 Once all test and corrections pass on the Staging Server, it will be pushed to production server.
 
-Production Server:  [CoreyGumbs.com](http://www.CoreyGumbs.com) or [162.243.123.131](http://162.243.123.131)
+Production Server:  [CoreyGumbs.com](http://www.coreygumbs.com) or [162.243.123.131](http://162.243.123.131)
 
 
 
